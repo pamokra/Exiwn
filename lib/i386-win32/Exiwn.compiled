@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus32\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1357348150"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -Fic:\Exiwn\lib\i386-win32 -Fuc:\lazarus32\lcl\units\i386-win32\win32 -Fuc:\lazarus32\lcl\units\i386-win32 -Fuc:\lazarus32\components\lazutils\lib\i386-win32 -Fuc:\lazarus32\packager\units\i386-win32 -Fuc:\Exiwn\ -FUc:\Exiwn\lib\i386-win32\ -FEc:\Exiwn\ -oc:\Exiwn\Exiwn.exe -dLCL -dLCLwin32 Exiwn.lpr"/>
+</CONFIG>
